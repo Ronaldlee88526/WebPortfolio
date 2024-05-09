@@ -221,6 +221,7 @@ body {
   justify-content: center;
   align-items: center;
   z-index: 2;
+  display: none;
 }
 
 .mobile-menu .mobile-cross {
@@ -455,6 +456,7 @@ section.project-banner {
   margin: 0 auto;
   display: flex;
   border-radius: 10px;
+
 }
 
 section.contact-banner {
@@ -622,6 +624,8 @@ section.contact-banner .row {
   font-size: 21px;
   font-family: NotoSerifJP-ExtraLigh;
   line-height: 38px;
+  text-align: center;
+  padding-top: 50px;
 }
 
 section.main-about .row {
